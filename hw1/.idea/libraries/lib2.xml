@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="file:///usr/lib/hbase/hbase-2.2.4/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/lib/hbase/hbase-2.2.4/lib" recursive="false" />
+  </library>
+</component>
